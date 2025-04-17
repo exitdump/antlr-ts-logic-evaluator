@@ -1,0 +1,26 @@
+{
+  "name": "antlr-ts-logic-evaluator",
+  "version": "1.0.0",
+  "description": "git clone https://github.com/exitdump/antlr-ts-logic-evaluator.git cd antlr-ts-logic-evaluator",
+  "keywords": [
+    "antlr4",
+    "antlr4ts",
+    "formula",
+    "logic"
+  ],
+  "homepage": "https://github.com/exitdump/antlr-ts-logic-evaluator#readme",
+  "bugs": {
+    "url": "https://github.com/exitdump/antlr-ts-logic-evaluator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exitdump/antlr-ts-logic-evaluator.git"
+  },
+  "license": "MIT",
+  "author": "Jahid Hasan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
